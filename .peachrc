@@ -1,0 +1,10 @@
+{
+  "key": "api_integration_tests_angular_5",
+  "framework": {
+    "angular5": {
+      "module": "inventory",
+      "root_selector": "inventory-app-ng5",
+      "version": "5.0.0"
+    }
+  }
+}
